@@ -1,4 +1,6 @@
 # RFM-Analysis
+Use Python to analyze customer segments to get insights for company
+
 ## DATASET:
     we have 2 relational tables with 1st table about customer information and 2nd table about RFM classification.
     
