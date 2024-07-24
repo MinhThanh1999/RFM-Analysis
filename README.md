@@ -13,6 +13,7 @@ We have two relational tables: the first table contains customer information and
 ## Insights:
 - If we look at the visualization, we will see that among the 11 different categories, the Champions segment has the largest quantity in customer segments and accounts for more than half of the company’s revenue (62.89%).
 - The next segment that contributes the second most to revenue is Loyal Customers, with 11.2% of the company’s revenue.
+
 ⇒ These groups are both loyal customers, so we need to focus on customer service and provide personalized promotions to encourage them to buy more and increase their referrals to friends and family.
 
 - The Promising and Can’t Lose Them segments are the two types of customers with the smallest quantity in customer segments but have high spending per order. We need some promotions to keep them buying and to convert them into loyal customers.
