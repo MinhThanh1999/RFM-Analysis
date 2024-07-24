@@ -17,6 +17,7 @@ We have two relational tables: the first table contains customer information and
 
 - The Promising and Can’t Lose Them segments are the two types of customers with the smallest quantity in customer segments but have high spending per order. We need some promotions to keep them buying and to convert them into loyal customers.
 - Besides that, we should keep an eye on the Hibernating segment because they have a large quantity, just below the Champions segment. They used to buy our products often but have had no activity recently. This indicates that the company may have some issues, possibly with product quality or customer service, which we need to address soon.
+
 ⇒ Recommendation: Gather their feedback and understand what they want the company to improve.
 
 - Other segments do not contribute much to revenue but should be analyzed to understand what causes them to buy less and less often. Is it due to alternative products or competitors? If it is from competitors, what are the different and attractive aspects, such as price, variety of models, etc.?
