@@ -1,4 +1,4 @@
-# RFM-Analysis
+# Customer Segment Analysis
 Use Python to analyze customer segments to gain insights for the company
 
 ## Dataset:
